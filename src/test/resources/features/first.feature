@@ -1,4 +1,4 @@
-#autor :Carlos Enrique Quintero Simití
+
   #language: es
 
   @HistoriaDeUsuario
